@@ -1,0 +1,8 @@
+Advanced Git Notes
+
+Branches allow parallel development.
+Each branch has its own commits.
+
+Commands learned:
+git branch
+git checkout -b branch-name

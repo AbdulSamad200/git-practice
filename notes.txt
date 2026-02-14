@@ -1,0 +1,26 @@
+GIT LEARNING NOTES
+
+What is Git?
+Git is a distributed version control system used to track changes in code and collaborate with others.
+
+Why Git is used?
+- Track history of files
+- Work on projects safely
+- Collaborate with teams
+- Undo mistakes easily
+
+Basic Git Workflow:
+1. Create or edit files
+2. git status  -> check changes
+3. git add .   -> stage changes
+4. git commit  -> save snapshot locally
+5. git push    -> upload to GitHub
+
+Common Commands I learned today:
+git init
+git status
+git add .
+git commit -m "message"
+git push
+
+This repo is part of my Git learning journey.

@@ -1,0 +1,5 @@
+Git Commands Practice
+
+git log → shows commit history
+git diff → shows file changes
+git branch → shows branches
